@@ -1,0 +1,8 @@
+# file config.txt tidak di push ke github
+config.txt
+
+# semu file yg ada di folder sistem tidak di push ke github
+sistem/
+
+# semua file exe tidak di push ke github
+*.exe 
